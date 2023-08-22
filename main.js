@@ -4,7 +4,7 @@ noseY=0;
 
 
 function preload(){
-bigode = loadImage("https://postimg.cc/bsV5tR30")
+bigode = loadImage("https://i.postimg.cc/3x3QzSGq/m.png")
 }
 
 function setup() {
